@@ -26,14 +26,14 @@ body{
 	width: 100%;
 
         
-    background-position: center;
+    /*background-position: center;*/
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: scroll;
-	z-index: 5;
-	position: relative;
-	top: 0%;
-	left: 0%;
+	/*z-index: 5;*/
+	/*position: relative;*/
+	/*top: 0%;*/
+	/*left: 0%;*/
     
 /*    align-items: stretch;*/
 }
