@@ -211,8 +211,8 @@ a.article:hover {
 .column img {
   margin-top: 8px;
   vertical-align: middle;
-  max-height: 200px;
-  max-width: 350px;
+  height: 200px;
+  width: 350px;
 }
 
 /* ---------------------------------------------------
